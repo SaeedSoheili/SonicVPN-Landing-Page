@@ -6,7 +6,7 @@ SonicVPN landing page: An illustrative project highlighting HTML and CSS craftsm
 Live Demo: https://sonicvpn-landing-page.netlify.app/
 
 
-## :telephone_receiver: About Us
+## :wave: About Us
 
 I welcome anyone interested in advancing this project; feel free to contribute through pull requests or raise issues, and please don't hesitate to reach out for collaboration.
 
