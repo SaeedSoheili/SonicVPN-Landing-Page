@@ -1,0 +1,540 @@
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../fonts/Vazirmatn-Regular.ttf");
+}
+.maingLandingPageDiv {
+  /* position: relative; */
+  width: 1440px;
+  height: 1151px;
+  /* background: lightblue; */
+  margin: 0 auto;
+}
+
+.divHeaderTopMain {
+  /* background-color: red; */
+  margin-left: 70px;
+  margin-right: 70px;
+  padding-top: 50px;
+  position: relative;
+  height: 70px;
+}
+
+.socialNetworksIcons {
+  margin-left: 24px;
+}
+
+.divHeaderLeft {
+  float: left;
+}
+
+.divHeaderMid {
+  float: left;
+}
+
+.divHeaderRight {
+  float: right;
+}
+.siteLogoHeader {
+  margin-top: -24px;
+}
+
+.divHeaderMid {
+  margin-left: 200px;
+  /* margin-right: 446px; */
+  width: 548px;
+  height: 44px;
+  /* background-color: yellowgreen; */
+  float: left;
+}
+
+.menu1 {
+  width: 171px;
+  height: 44px;
+  float: left;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 21px;
+
+  color: #0197d2;
+
+  background: #cceaf6;
+  opacity: 0.5;
+  border-radius: 8px;
+}
+
+.menu2 {
+  margin-left: 17.5px;
+  width: 171px;
+  height: 44px;
+  float: left;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 21px;
+
+  color: #e9e9e9;
+}
+.menu3 {
+  margin-left: 17.5px;
+  width: 171px;
+  height: 44px;
+  float: left;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 21px;
+
+  color: #e9e9e9;
+}
+
+.headerBreakLine {
+  background-color: #e9e9e9;
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  margin-left: 70px;
+  top: 120px;
+  border: 1px solid #e9e9e9;
+}
+
+.divFooter {
+  margin-top: 100px;
+  margin-right: 74px;
+  float: right;
+  height: 268px;
+  width: 1300px;
+  /* background-color: blue; */
+}
+
+.divFooterRight {
+  height: 268px;
+  width: 856px;
+  float: right;
+  background: linear-gradient(264.24deg, #0197d2 -10.53%, #5732ba 111%);
+  border-radius: 50px 50px 0px 0px;
+}
+
+.divFooterLeft {
+  width: 420px;
+  height: 268px;
+  /* background-color: yellow; */
+  float: left;
+}
+
+.divFooterLeftImg {
+  float: left;
+  margin-left: 182px;
+}
+
+.divFooterLeftTitle {
+  float: left;
+  margin-left: 161px;
+  margin-top: 8px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divFooterLeftSubTitle {
+  float: left;
+  margin-left: 70px;
+  margin-top: 4px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #a6a6a6;
+}
+
+.divFooterLeftBtn {
+  float: left;
+  margin-left: 110px;
+  margin-top: 40px;
+  width: 200px;
+  height: 42px;
+
+  background: linear-gradient(92.44deg, #0197d2 0%, #5732ba 100%);
+  border-radius: 8px;
+}
+
+.divFooterLeftBtnText {
+  float: left;
+  margin-left: 8px;
+  margin-top: 9px;
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.divFooterLeftBtnIcon {
+  float: left;
+  margin-left: 31px;
+  margin-top: 9px;
+}
+
+.divFooterRight1 {
+  float: right;
+  /* background-color: #5732BA; */
+  margin-right: 10px;
+  width: 415px;
+  height: 268px;
+}
+.divFooterRight2 {
+  float: right;
+  /* background-color: #5732BA; */
+  margin-right: 10px;
+  width: 120px;
+  height: 268px;
+}
+.divFooterRight3 {
+  float: right;
+  /* background-color: #5732BA; */
+  margin-right: 10px;
+  width: 120px;
+  height: 268px;
+}
+.divFooterRight4 {
+  float: right;
+  /* background-color: #5732BA; */
+  margin-right: 10px;
+  width: 120px;
+  height: 268px;
+}
+
+.divFooterRight1Logo {
+  float: right;
+  display: block;
+  margin-top: 43px;
+  margin-right: 43px;
+}
+
+.divFooterRight1Name {
+  float: right;
+  margin-right: 43px;
+  width: 400px;
+  height: 40px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 40px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.divFooterRight1Text {
+  float: right;
+  margin-top: -20px;
+  margin-right: 43px;
+  width: 400px;
+  height: 24px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.divFooterRight1SocialIcons {
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.divFooterRightTitle {
+  float: right;
+  margin-right: 20px;
+  margin-top: 43px;
+  width: 110px;
+  height: 24px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.divFooterRightList {
+  float: right;
+  width: 110px;
+  height: 24px;
+  margin-right: 15px;
+  margin-top: 10px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.divFooterRightListItems {
+  margin-right: -8px;
+}
+
+/* Body */
+
+.divBodyImage {
+  float: left;
+  margin-left: 70px;
+}
+
+.divBodyTitle {
+  margin-top: 84px;
+  margin-right: 70px;
+  float: right;
+  width: 757px;
+  height: 120px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 60px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divBodySubTitle {
+  margin-top: 16px;
+  margin-right: 70px;
+  float: right;
+  width: 650px;
+  height: 24px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #a6a6a6;
+}
+
+.divBodyForm {
+  width: 639px;
+  height: 778px;
+  float: right;
+  /* background-color: red; */
+  margin-right: 70px;
+}
+
+.divBodySupportImage {
+  float: right;
+  margin-right: 291px;
+  margin-top: 24px;
+}
+.divBodySupportTitle {
+  float: right;
+  margin-right: 210px;
+  margin-top: 20px;
+  width: 220px;
+  height: 21px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 21px;
+  text-align: right;
+
+  color: #01d2a5;
+}
+.divBodySupportSubTitle {
+  float: right;
+  margin-right: 145px;
+  margin-top: 8px;
+  width: 370px;
+  height: 17px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+
+  text-align: right;
+
+  color: #a6a6a6;
+}
+
+.divBodySupportFormLabel {
+  float: right;
+  margin-right: 109px;
+  margin-top: 24px;
+
+  width: 600px;
+  height: 17px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divBodySupportFormInputName,
+.divBodySupportFormInputTitle {
+  float: right;
+  padding-right: 10px;
+  margin-top: 16px;
+  margin-right: 109px;
+  box-sizing: border-box;
+
+  width: 420px;
+  height: 56px;
+
+  background: #ffffff;
+
+  border: 1px solid #e9e9e9;
+  border-radius: 8px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divBodySupportFormInputText {
+  float: right;
+  padding-right: 10px;
+  margin-top: 16px;
+  margin-right: 109px;
+  box-sizing: border-box;
+
+  width: 420px;
+  height: 208px;
+  left: 110px;
+  top: 445px;
+
+  background: #ffffff;
+
+  border: 1px solid #e9e9e9;
+  border-radius: 8px;
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divBodySupportThickImage {
+  float: right;
+  margin-right: 109px;
+  margin-top: 16px;
+  margin-left: 8px;
+}
+
+.divBodySupportRememberName {
+  float: right;
+  margin-top: 16px;
+
+  width: 200px;
+  height: 24px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #212121;
+}
+
+.divBodySupportSubmitBtn {
+  float: right;
+  margin-top: 16px;
+
+  margin-right: 109px;
+  width: 420px;
+  height: 42px;
+
+  background: linear-gradient(92.44deg, #0197d2 0%, #5732ba 100%);
+  border-radius: 8px;
+}
+
+.divBodySupportSubmitBtnIcon {
+  float: left;
+  margin-left: 145px;
+  margin-top: 10px;
+}
+
+.divBodySupportSubmitBtnText {
+  float: left;
+  margin-top: 7px;
+
+  margin-left: 8px;
+  width: 100px;
+  height: 24px;
+
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+
+  text-align: right;
+
+  color: #ffffff;
+}
